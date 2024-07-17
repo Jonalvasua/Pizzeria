@@ -1,3 +1,14 @@
+/* Dashboard 3 - Staff
+
+By far the simplest part of the requirements, we want to be able to monitor who was working on any given day or shift and what our overall staff costs are.
+	1. Total staff costs
+	2. Total hours worked
+	3. Hours worked by staff members
+	4. Cost per staff member
+
+*/
+
+
 SELECT
 	r.date,
 	s.first_name,
